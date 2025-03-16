@@ -11,7 +11,7 @@ pinned: false
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-# FreshVegFruit 🍎🍌🍅
+# FreshVegFruit 🍎🍅
 
 ## Overview
 FreshVegFruit is a project developed for Flipkart GRID 6.0, aiming to leverage OCR and image recognition to enhance product packaging analysis and freshness detection. The project involves using machine learning models to recognize brands, count product quantities, and assess the freshness of fruits and vegetables.
@@ -23,10 +23,10 @@ FreshVegFruit is a project developed for Flipkart GRID 6.0, aiming to leverage O
 - **Freshness Detection**: Assess the freshness of fruits and vegetables by analyzing various visual cues and patterns.
 
 ## Team Members
-- **Abhishek Kumar Choudhary** ![Abhishek Kumar Choudhary](myimage.jpg)
-- **Aman Deep** ![Aman Deep](aman.jpg)
-- **Gaurav Lodhi** ![Gaurav Lodhi](gaurav.jpg)
-- **Anand Jha** ![Anand Jha](anandimg.jpg)
+- **Abhishek Kumar Choudhary** <img src="myimage.jpg" width="100" height="100">
+- **Aman Deep** <img src="aman.jpg" width="100" height="100">
+- **Gaurav Lodhi** <img src="gaurav.jpg" width="100" height="100">
+- **Anand Jha** <img src="anandimg.jpg" width="100" height="100">
 
 ## Installation
 1. Clone the repository:
@@ -64,6 +64,7 @@ colorFrom: pink
 colorTo: red
 sdk: streamlit
 sdk_version: 1.38.0
-app_file: [app.py](http://_vscodecontentref_/1)
+app_file: app.py
 pinned: false
 ---
+```
